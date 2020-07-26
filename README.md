@@ -11,5 +11,6 @@ Un blog increible para el [curso de Git y Github](https://platzi.com/cursos/git-
 *Trucos muy locos del profesor
 *Sisas
 *Creado por mi :v
+*otro comentario para hacer cherry-pick
 
 Y como un amable recordatorio: **Esto es probando Github**.
