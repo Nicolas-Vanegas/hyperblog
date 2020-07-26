@@ -10,5 +10,6 @@ Un blog increible para el [curso de Git y Github](https://platzi.com/cursos/git-
 *El verdadero amor por las buenas prácticas
 *Trucos muy locos del profesor
 *Sisas
+*Creado por mi :v
 
 Y como un amable recordatorio: **Esto es probando Github**.
