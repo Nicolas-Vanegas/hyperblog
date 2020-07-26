@@ -5,11 +5,11 @@ Un blog increible para el [curso de Git y Github](https://platzi.com/cursos/git-
 > -niñita
 
 ## En este curso vemos de todo
-*Todos los comandos de Git
-*El flujo de trabajo de Github
-*El verdadero amor por las buenas prácticas
-*Trucos muy locos del profesor
-*Sisas
-*Creado por mi :v
+* Todos los comandos de Git
+* El flujo de trabajo de Github
+* El verdadero amor por las buenas prácticas
+* Trucos muy locos del profesor
+* Sisas
+* Creado por mi :v
 
 Y como un amable recordatorio: **Esto es probando Github**.
